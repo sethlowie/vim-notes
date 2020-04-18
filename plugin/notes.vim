@@ -1,1 +1,1 @@
-command! -nargs=* notes call notes#notes#echo()
+command! -nargs=* Notes call notes#notes#echo()
