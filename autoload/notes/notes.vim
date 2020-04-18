@@ -1,5 +1,5 @@
 func! notes#notes#echo()
-  call notes#notes#create_window()
+  call notes#notes#open_window()
 endfunc
 
 func! notes#notes#open_window()
