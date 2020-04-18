@@ -1,5 +1,5 @@
 func! notes#notes#echo()
-  echo "waffles are great"
+  call notes#notes#create_window()
 endfunc
 
 func! notes#notes#open_window()
