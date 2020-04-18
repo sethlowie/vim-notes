@@ -1,1 +1,1 @@
-command! -nargs=* notes echo "waffles are great"
+command! -nargs=* notes call notes#notes#echo()
